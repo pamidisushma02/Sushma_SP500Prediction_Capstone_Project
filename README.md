@@ -9,11 +9,23 @@
 
 # Collect data: Here is a link to the source of data (Yahoo finance)
 > The daily closing price of S&P 500 from Yahoo finance
-https://finance.yahoo.com/quote/TSLA/history/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAMiIcFZRHWjd3XZ0t3quag8RTQ-wr5wLJ0A4r05AuVGyA92vv_e_lHwsm6CHkiBmbNVAIlB5pIdS3-24w54zyHQkQX680DI68RtH9WbkUSBFow3RpCPWsrDkzp7K5syXgppEXCIn9IpoY_RaWzFC5ZHLAGBbtqneA6zKyP9u7H9c
+https://finance.yahoo.com/quote/%5EGSPC/history?period1=-1325635200&period2=1679184000&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true
 
-> Download the stock price for the recent 5 years and save in csv format
+> Historical inflation data is the U.S. Bureau of Labor Statistics
+https://data.bls.gov/pdq/SurveyOutputServlet
 
+> Historical Interest rate data is obtained from the below sources:
+https://www.kaggle.com/datasets/federalreserve/interest-rates
+https://fred.stlouisfed.org/series/FEDFUNDS
 
+> Historical Unemployment rate data is obtained from the U.S. Bureau of Labor Statistics
+https://data.bls.gov/pdq/SurveyOutputServlet
+
+> A template to calculate the RSI (Relative Strenght Index) has been downloaded from 
+https://investexcel.net/relative-strength-index-spreadsheet/#google_vignette
+
+> A template to calculate the Moving Average Convergence Divergence (or MACD) indicator has been downloaded from 
+https://investexcel.net/how-to-calculate-macd-in-excel/
 ## Below tasks are done  (In progress)
 
 1. A new repo is created in Github 
