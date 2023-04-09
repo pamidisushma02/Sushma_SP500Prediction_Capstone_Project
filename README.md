@@ -26,12 +26,6 @@ https://investexcel.net/relative-strength-index-spreadsheet/#google_vignette
 
 > A template to calculate the Moving Average Convergence Divergence (or MACD) indicator has been downloaded from 
 https://investexcel.net/how-to-calculate-macd-in-excel/
-## Below tasks are done  (In progress)
-
-1. A new repo is created in Github 
-2. Clone the repo down to local machine.
-3. Add .gitignore
-
 
 
 ## Link to Overleaf Report
